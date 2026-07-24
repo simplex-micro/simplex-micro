@@ -22,7 +22,7 @@ A video series where founder & CTO **Dr. Thang Tran** — architect of the
 RISC-V vector engine in Meta's MTIA chip — walks through how the SimplEx
 architecture is designed, validated, and benchmarked.
 
-- Episode 5: Benchmark Validation — Dhrystone to Qwen
+- Episode 5: Benchmark Validation — Dhrystone to Qwen https://youtu.be/CL__7-Kx42s
 - Episode 4: Bending the Architecture
 
 ## Learn more
