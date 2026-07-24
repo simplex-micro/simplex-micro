@@ -18,9 +18,7 @@ take our word for it.
 
 ## Conversations with the CTO
 
-A video series where founder & CTO **Dr. Thang Tran** — architect of the
-RISC-V vector engine in Meta's MTIA chip — walks through how the SimplEx
-architecture is designed, validated, and benchmarked.
+A video series with founder & CTO Dr. Thang Tran — architect of the RISC-V vector engine shipping in Meta's MTIA chip — tracking the performance model in real time, from "can we run software on a processor that doesn't exist" to correlated benchmarks and architectural tradeoffs.
 
 - Episode 5: Benchmark Validation — Dhrystone to Qwen https://youtu.be/CL__7-Kx42s
 - Episode 4: Exploring the Design Space — Configuration, PPA, and the Path to FPGA https://youtu.be/Hw9zdQKvwhg
