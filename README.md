@@ -22,7 +22,7 @@ A video series with founder & CTO Dr. Thang Tran — architect of the RISC-V vec
 
 - Episode 5: Benchmark Validation — Dhrystone to Qwen https://youtu.be/CL__7-Kx42s
 - Episode 4: Exploring the Design Space — Configuration, PPA, and the Path to FPGA https://youtu.be/Hw9zdQKvwhg
-  Episode 3: Correlation — Proving the Performance Model Matches RTL https://youtu.be/mKzM3uFE3M4
+- Episode 3: Correlation — Proving the Performance Model Matches RTL https://youtu.be/mKzM3uFE3M4
 - Episode 2: 10,000x Faster Than RTL — But Is It Right? https://youtu.be/Za1FpAK8Uyg
 - Episode 1: The Performance Model — Simulating a Chip That Doesn't Exist Yet https://youtu.be/wpZWt8ZmGW4
 
